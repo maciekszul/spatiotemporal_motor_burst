@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
+  - _libgcc_mutex=0.1=conda_forge
   - argon2-cffi=20.1.0=py38h27cfd23_1
   - astroid=2.5=py38h06a4308_1
   - async_generator=1.10=pyhd3eb1b0_0
